@@ -7,3 +7,4 @@ Culture Land Code Generator
 
 
 *** 이 프로그램을 사용하여 생기는 문제는 제작자가 책임지지 않습니다 ***
+![제목 없음](https://github.com/key0808/Culture-Land-Code-Generator/assets/93857376/e489566c-eb8d-4636-b3e9-417591709ed9)
